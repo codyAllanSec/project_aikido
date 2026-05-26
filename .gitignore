@@ -1,0 +1,40 @@
+# Obsidian vault
+vault/
+.obsidian/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Secrets — never commit these
+*.key
+*.pem
+*.env
+.env.*
+secrets/
+credentials/
