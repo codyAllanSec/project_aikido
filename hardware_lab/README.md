@@ -50,4 +50,3 @@ Research is conducted exclusively on owned hardware. No findings will be publicl
 
 ---
 
-*Status: Active — hardware in hand, extraction toolkit incoming*
